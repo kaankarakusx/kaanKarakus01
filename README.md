@@ -2,7 +2,7 @@
 
 **Full Stack Developer**
 
-**Skills: Html,Css,Bootstrap,Javascript,NodeJS,ExpressJs,MongoDB,MySQL**
+**Skills: Html,Css,Bootstrap,Javascript,NodeJS,ExpressJs,TypeScript,MongoDB,MySQL**
 
 I'm interested in Web Technologies & Software Development
 
